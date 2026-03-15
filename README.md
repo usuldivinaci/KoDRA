@@ -76,6 +76,23 @@
 
 ---
 
+## 📦 Installation
+
+- **Python** : 3.8 ou supérieur.
+- **Dépendances** :
+  ```bash
+  pip install -r requirements.txt
+  ```
+- *(Optionnel)* Environnement virtuel :
+  ```bash
+  python -m venv .venv
+  .venv\Scripts\activate   # Windows
+  # source .venv/bin/activate   # Linux / macOS
+  pip install -r requirements.txt
+  ```
+
+---
+
 ## 🚀 Lancer un cas
 
 ```bash
