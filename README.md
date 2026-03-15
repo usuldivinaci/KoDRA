@@ -2,6 +2,8 @@
 
 **KoDRA** est un moteur de calcul trans-dimensionnel capable de traiter des problèmes **NP-difficiles**, des **singularités physiques** et des **structures biologiques complexes** en un temps quasi-instantané (Loi d'Unicité KODra : *x → 𝟎 → U(x)*).
 
+**About (EN):** KoDRA (Kiss Of the Dragon) is a trans-dimensional computing engine (**Pocket Meta Quantum Computer**, PMQC) that can handle NP-hard problems, physical singularities, and complex biological structures. It is based on the KODra Law of Unicity: *x → 𝟎 → U(x)*. Portfolio: life sciences, quantum chemistry, cosmology, cryptography, meta-intelligence.
+
 ---
 
 ## 🏛️ Pillars of Reality — Portfolio de cas
