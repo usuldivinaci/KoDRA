@@ -1,0 +1,25 @@
+{
+  "case_type": "OMEGA_LIMIT",
+  "case_name": "KODRA_OMEGA_LIMIT",
+  "description": "Test de saturation absolue de la formule maîtresse (Omega Limit).",
+  "objective": "Saturation absolue de la formule — état final de l'entropie (fin des temps).",
+  "stress": {
+    "task": "UNIVERSAL_ENTROPY_MAPPING",
+    "mode": "ULTRA_PORTAL_STRESS"
+  },
+  "parameters": {
+    "dimensions": 1152921504606846976,
+    "dimensions_note": "2^60 — Mapping trans-universel",
+    "single_iteration_challenge": true
+  },
+  "input": {
+    "label": "Estimation masse-énergie totale de l'Univers observable",
+    "universe_mass_energy_kg": 1e53,
+    "unit": "kg (équivalent c²)"
+  },
+  "challenge": "Calculer l'état final de l'entropie (la fin des temps) en une seule itération.",
+  "option_values": {
+    "target_integer": 1152921504606846976
+  },
+  "source": "KoDRA Omega Limit - Stress test formule maîtresse"
+}

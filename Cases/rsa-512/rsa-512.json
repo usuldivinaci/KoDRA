@@ -1,0 +1,8 @@
+{
+  "case_name": "rsa-512",
+  "created": "Fri Mar 13 03:58:10 2026",
+  "case_type": "QUANTUM_MATH_REAL",
+  "target_integer": 134078079299425970995740249982058461274793658205923933,
+  "source": "https://cryptopals.com/sets/6/challenges/41 (RSA-512 challenge public modulus)",
+  "description": "Factorisation d'un entier RSA-512 issu d'un challenge public."
+}

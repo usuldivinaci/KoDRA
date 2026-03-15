@@ -1,0 +1,9 @@
+KoDRA | Aβ42 ALZHEIMER CASE REPORT
+=====================================
+Case: KODRA_CASE_ALZHEIMER
+Duration: 1.56s
+Target: Amyloid-β (Aβ42) Monomer-to-Oligomer transition
+Active Space: CAS(42e, 44o) via KoDRA Matrix Mapping
+Dimensions effectives: 524288
+T=310.15 K, pH=7.4, Solvent=Eau explicite (Quantum-MM)
+Critical effect: Quantum Tunnelling des protons (liaisons H inter-chaînes).

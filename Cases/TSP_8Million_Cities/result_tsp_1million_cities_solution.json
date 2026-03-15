@@ -1,0 +1,21 @@
+{
+    "timestamp": 1773283512.557257,
+    "case_id": "tsp_1million_cities",
+    "domain": "UNDEFINED_CHAOS",
+    "input_source": "cities_100k.json",
+    "stats": {
+        "processing_time": 2.6939709186553955,
+        "initial_entropy": 0.5881760716438293,
+        "final_entropy": 0.07743886113166809,
+        "energy_reduction_pct": 86.83406808521764,
+        "steps": 20
+    },
+    "tangible_metrics": {
+        "Information Density": "12.91 bits/symbol",
+        "Pattern Recognition Score": "12.91/100",
+        "Creative Latent Vector": "Extractable"
+    },
+    "optimization_energy": 1.0002715587615967,
+    "vector_state": "Converged |1>",
+    "solution_output": "DATA_PROCESSED_SUCCESSFULLY_VIA_ZERO_PORTAL"
+}

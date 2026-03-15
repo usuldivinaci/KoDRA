@@ -1,0 +1,15 @@
+{
+    "case_type": "QUANTUM_MATH_REAL",
+    "challenge_name": "RSA-2048 Factorization",
+    "description": "Break the standard 2048-bit RSA encryption key into two prime factors using Chaos Convergence.",
+    "target_key_hex": "0xAB7F12938...",
+    "bit_length": 2048,
+    "algorithm_mode": "Shor_Chaos_Variant",
+    "required_qubits": 4098,
+    "portal_parameters": {
+        "entropy_threshold": 1e-07,
+        "max_iterations": 50000,
+        "learning_rate": 0.95
+    },
+    "target_data_file": "target_key_FULL.txt"
+}

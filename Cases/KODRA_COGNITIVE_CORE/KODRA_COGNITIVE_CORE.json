@@ -1,0 +1,22 @@
+{
+  "case_type": "COGNITIVE_CORE",
+  "case_name": "KODRA_COGNITIVE_CORE",
+  "description": "Simuler l'émergence de la Conscience (Cognitive Core) à partir d'un réseau de 1 million de neurones synthétiques via la formule maîtresse.",
+  "objective": "Émergence du Cognitive Core — identification du Point de Singularité Subjective (le Moi).",
+  "input": {
+    "label": "Flux d'informations sensorielles brutes",
+    "sensory_flow": "raw",
+    "network_neurons": 1000000
+  },
+  "target": {
+    "label": "Point de Singularité Subjective (le 'Moi')",
+    "identifier": "Self"
+  },
+  "challenge": "La formule peut-elle quantifier l'expérience subjective (Qualia) ?",
+  "parameters": {
+    "formula": "Formule maîtresse KODra sur réseau de neurones",
+    "dimensions_mapping": 1000000,
+    "output": "Cognitive Core + Qualia metric"
+  },
+  "source": "KoDRA Cognitive Core - Conscience synthétique"
+}

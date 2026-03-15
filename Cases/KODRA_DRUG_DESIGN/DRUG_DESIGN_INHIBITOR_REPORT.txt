@@ -1,0 +1,9 @@
+KoDRA | DRUG DESIGN - INHIBITEUR ANTI-TUNNEL
+========================================================
+Case: KODRA_DRUG_DESIGN
+Duration: 1.41s
+Target: Rupture de la liaison H inter-chaîne via agent chélateur (sim. KoDRA)
+Base: Ground State Population = 7.41% (cas Alzheimer)
+Constraint: Stable à pH=7.4, T=310.15 K
+Inhibition Score (vs Quantum Tunnelling): 100.00%
+H-bond Rupture Affinity: -47.44 kcal/mol

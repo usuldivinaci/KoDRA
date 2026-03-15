@@ -1,0 +1,9 @@
+{
+    "case_type": "QUANTUM_MATH_REAL",
+    "description": "Factorization of N=1005973 using Period Finding (Shor's Logic)",
+    "target_integer": 1005973,
+    "base_generator": 2,
+    "expected_factors": "Unknown (To be solved)",
+    "complexity_class": "BQP (Bounded-Error Quantum Polynomial)",
+    "difficulty": 9
+}

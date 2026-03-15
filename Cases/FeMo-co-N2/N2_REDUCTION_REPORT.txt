@@ -1,0 +1,21 @@
+KoDRA | FeMo-co-N2 REDUCTION REPORT
+=====================================
+Case: FeMo-co-N2
+Duration: 5.88s
+
+STRUCTURE ELECTRONIQUE (Minimum Global)
+--------------------------------------
+- Energie totale: -16366.0000 Ha
+- Etat de spin: S=3/2
+- Espace actif: CAS(24e, 24o)
+
+SIMULATION RUPTURE N≡N
+----------------------
+- Substrat: N2
+- Produit: 2 NH3
+- Longueur N-N reactif: 1.098 A
+- Longueur N-N au TS: 1.910 A
+- Barriere: 17.2 kcal/mol
+- Energie de reaction: -59.4 kcal/mol
+
+Fichiers generes: FeMo-co_optimized.xyz, reaction_pathway_N2.csv, spin_density_map.cube

@@ -1,0 +1,23 @@
+{
+    "timestamp": 1773284551.7367651,
+    "case_id": "Portfolio_Optimization_Finance",
+    "domain": "FINANCE_MODELING",
+    "input_source": "metadata.json",
+    "stats": {
+        "processing_time": 137.32152891159058,
+        "initial_entropy": 2.4334647605428472e-05,
+        "final_entropy": 0.002999674528837204,
+        "energy_reduction_pct": -12226.763787481554,
+        "steps": 20
+    },
+    "tangible_metrics": {
+        "Market Universe": "500 Assets",
+        "Optimization Goal": "Mean-Variance (Markowitz)",
+        "Sharpe Ratio (Proj)": "616.7334",
+        "Est. Annual Return": "+4160.87%",
+        "Risk/Volatility Drop": "-99.70%"
+    },
+    "optimization_energy": 1.0000065565109253,
+    "vector_state": "Converged |1>",
+    "solution_output": "DATA_PROCESSED_SUCCESSFULLY_VIA_ZERO_PORTAL"
+}

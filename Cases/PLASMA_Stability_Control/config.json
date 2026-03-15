@@ -1,0 +1,11 @@
+{
+  "case_type": "PLASMA_STABILITY_CONTROL",
+  "op_mode": "PLASMA_STABILITY_CONTROL",
+  "option_values": {
+    "task": "PLASMA_STABILITY_CONTROL",
+    "engine": "ITER_VIRTUAL_CORE",
+    "prediction_horizon": "50ms",
+    "stability_mode": "ZERO_PORTAL_MAGNETIC_SHIELD",
+    "output": "ENERGY_GAIN_Q_FACTOR"
+  }
+}

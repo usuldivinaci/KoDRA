@@ -1,0 +1,22 @@
+{
+  "curvature": {
+    "extreme_at_R0": true,
+    "ricci_scalar_near_singularity": "divergent (R→0)",
+    "description": "Courbure extrême à la singularité de Schwarzschild"
+  },
+  "schwarzschild": {
+    "mass_solar": 10,
+    "R_s_km": 29.5,
+    "R_s_m": 29500,
+    "horizon_label": "Event horizon (10 M_sun)"
+  },
+  "information_paradox": {
+    "hawking": "Radiation / perte d'information",
+    "holography": "Information encodée sur la surface (AdS/CFT)",
+    "kodra_role": "Formule maîtresse au point zéro (injection via Zero-Portal)"
+  },
+  "test": {
+    "dimensions_mapping": 1048576,
+    "saturation_test": "2^20 dimensions pour saturation formule"
+  }
+}

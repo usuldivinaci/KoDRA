@@ -1,0 +1,18 @@
+{
+  "new_constants": {
+    "c_information": "infinity",
+    "description_c": "Vitesse de transfert d'information : instantané (nouvelle physique)",
+    "G_dual": "attractive_et_repulsive",
+    "description_G": "Gravité = f(densité d'information) : attractive ET répulsive",
+    "temporal_causality": false,
+    "description_t": "Univers sans causalité temporelle (premier tick)",
+    "unicity_seed": 0.999942,
+    "description_u": "État d'Unicité Totale (norme initiale)"
+  },
+  "big_bang_2": {
+    "label": "Big Bang 2.0",
+    "first_tick": true,
+    "reality_fabric": "REALITY_FABRIC_DESIGN"
+  },
+  "impossible_constants_note": "Constantes 'impossibles' pour la nouvelle physique (Genesis Reboot)"
+}

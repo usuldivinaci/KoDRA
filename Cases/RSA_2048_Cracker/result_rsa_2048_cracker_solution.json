@@ -1,0 +1,15 @@
+{
+    "timestamp": 1773282268.721815,
+    "case_id": "rsa_2048_cracker",
+    "input_source": "input_rsa.json",
+    "stats": {
+        "processing_time": 1.3136088848114014,
+        "initial_entropy": 0.55243980884552,
+        "final_entropy": 0.07343228906393051,
+        "energy_reduction_pct": 86.70763983910064,
+        "steps": 20
+    },
+    "optimization_energy": 0.9936840534210205,
+    "vector_state": "Converged |1>",
+    "solution_output": "DATA_PROCESSED_SUCCESSFULLY_VIA_ZERO_PORTAL"
+}

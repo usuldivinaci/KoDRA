@@ -1,0 +1,11 @@
+KoDRA | INTERSTELLAR SEARCH - UNICITY SIGNAL
+============================================
+Case: KODRA_INTERSTELLAR_SEARCH
+Input: 1.42 GHz (Ligne hydrogène)
+Algorithm: Quantum Fourier Transform (QFT) via Zero-Portal
+Sensitivity: Ultra-faible (1e-24 W)
+Dimensions: 500000+
+
+Norme KODra: 0.526767
+Seuil: > 0.5
+Signature d'Unicité détectée: OUI (candidat Type II)

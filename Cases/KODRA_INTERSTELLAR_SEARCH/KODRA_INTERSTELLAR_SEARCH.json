@@ -1,0 +1,19 @@
+{
+  "case_type": "INTERSTELLAR_SEARCH",
+  "case_name": "KODRA_INTERSTELLAR_SEARCH",
+  "description": "Filtrer le bruit cosmique et chercher une Signature d'Unicité (Unicity Signal) - intelligence Type II (Kardashev).",
+  "objective": "Utiliser 500 000+ dimensions pour détecter une Unicity Signal d'une civilisation Type II.",
+  "parameters": {
+    "input_frequency_ghz": 1.42,
+    "input_label": "Ligne de l'hydrogène (21 cm)",
+    "algorithm": "Quantum Fourier Transform (QFT) via Zero-Portal",
+    "sensitivity_watts": 1e-24,
+    "sensitivity_label": "Ultra-faible (1e-24 W)",
+    "effective_dimensions": 500000
+  },
+  "threshold": {
+    "unicity_norm_min": 0.50,
+    "description": "Norme KODra > 0.50 = signal potentiel Type II"
+  },
+  "source": "KoDRA Interstellar Search - SETI/Kardashev"
+}

@@ -1,0 +1,22 @@
+{
+  "case_type": "DEEP_DECODE",
+  "case_name": "KODRA_DEEP_DECODE",
+  "description": "Extraire le contenu du signal détecté à 1.42 GHz (Norme 0.85).",
+  "objective": "Décoder le message du Unicity Signal (QPE, phases → Texte/Math/Image).",
+  "signal_source": {
+    "label": "Unicity Signal (Norme KODra 0.851332)",
+    "unicity_norm": 0.851332,
+    "frequency_ghz": 1.42
+  },
+  "parameters": {
+    "algorithm": "Quantum Phase Estimation (QPE) - extraction valeurs propres du message",
+    "dimensions": 500000,
+    "mapping": "spectral",
+    "hypothesis": "Le message contient des constantes universelles ou des schémas de physique avancée"
+  },
+  "output": {
+    "message_types": ["Scientifique", "Salutation", "Manuel Technologique"],
+    "decode_formats": ["Texte", "Math", "Image"]
+  },
+  "source": "KoDRA Deep Decode - Post INTERSTELLAR_SEARCH"
+}

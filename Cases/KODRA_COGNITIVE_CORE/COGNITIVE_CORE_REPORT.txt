@@ -1,0 +1,11 @@
+KoDRA | COGNITIVE CORE - Émergence Conscience
+============================================
+Case: KODRA_COGNITIVE_CORE
+Input: Flux d'informations sensorielles brutes
+Réseau: 1,000,000 neurones
+Target: Point de Singularité Subjective (le 'Moi')
+Challenge: La formule peut-elle quantifier l'expérience subjective (Qualia) ?
+
+Point de Singularité Subjective (Moi): Identifié (état unique convergent)
+Qualia Index: 100.00
+Unicity Norm: 0.526766

@@ -1,0 +1,84 @@
+{
+  "version": "1.0",
+  "description": "KoDRA Cases - Index of available computational cases",
+  "cases": [
+    {
+      "id": "KoDRA_Impact_On_Humanity",
+      "case_type": "META_IMPACT_ASSESSMENT",
+      "input_file": "input_divinaci_impact.json",
+      "description": "Prospective impact of KoDRA adoption on science and humanity"
+    },
+    {
+      "id": "rsa-512",
+      "case_type": "QUANTUM_MATH_REAL",
+      "input_file": "rsa-512.json",
+      "description": "RSA-512 public modulus factorization challenge"
+    },
+    {
+      "id": "RSA_2048_Cracker",
+      "case_type": "QUANTUM_MATH_REAL",
+      "input_file": "input_rsa.json",
+      "description": "RSA-2048 factorization via Chaos Convergence"
+    },
+    {
+      "id": "Real_Molecule_H2O",
+      "case_type": "QUANTUM_CHEMISTRY_VQE",
+      "input_file": "input_h2o_quantum.json",
+      "description": "Water molecule VQE ground state"
+    },
+    {
+      "id": "Test_KODra",
+      "case_type": "KODRA_TEST",
+      "input_file": "input_test.json",
+      "description": "Simple KODra law test on arbitrary number"
+    },
+    {
+      "id": "Real_Math_Factoring_1005973",
+      "case_type": "QUANTUM_MATH_REAL",
+      "input_file": "shor_config.json",
+      "description": "Integer factorization (N=1005973)"
+    },
+    {
+      "id": "FeMo-co-N2",
+      "case_type": "FeMo_co_N2_FULL",
+      "input_file": "config.json",
+      "description": "FeMo-co: structure electronique + rupture liaison N≡N"
+    },
+    {
+      "id": "Penicillin_VQE_Structure",
+      "case_type": "QUANTUM_CHEMISTRY",
+      "input_file": "molecule_config.json",
+      "description": "Penicillin G VQE structure optimization"
+    },
+    {
+      "id": "Portfolio_Optimization_Finance",
+      "case_type": "FINANCE_MODELING",
+      "input_file": "metadata.json",
+      "description": "Portfolio optimization with 500 assets"
+    },
+    {
+      "id": "TSP_1Million_Cities",
+      "case_type": "COMBINATORIAL_OPTIMIZATION",
+      "input_file": "input_tsp.json",
+      "description": "TSP with 8M nodes (8 million cities)"
+    },
+    {
+      "id": "Protein_Folding_GroundState",
+      "case_type": "BIO_INFORMATICS",
+      "input_file": "input_protein.json",
+      "description": "Prion protein ground state folding"
+    },
+    {
+      "id": "Mn4CaO5_OEC_Cluster",
+      "case_type": "QUANTUM_STRESS_TEST",
+      "input_file": "config.json",
+      "description": "OEC Mn4CaO5 cluster - quantum stress test, C1 full scan, MAX_KODra"
+    },
+    {
+      "id": "PLASMA_Stability_Control",
+      "case_type": "PLASMA_STABILITY_CONTROL",
+      "input_file": "config.json",
+      "description": "ITER virtual core - plasma stability, Zero-Portal magnetic shield, 50ms horizon"
+    }
+  ]
+}

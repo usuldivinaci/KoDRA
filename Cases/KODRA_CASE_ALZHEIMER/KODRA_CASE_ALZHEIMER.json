@@ -1,0 +1,16 @@
+{
+  "case_type": "BIO_INFORMATICS",
+  "case_name": "KODRA_CASE_ALZHEIMER",
+  "target": "Amyloid-β (Aβ42) Monomer-to-Oligomer transition",
+  "molecule_name": "Aβ42",
+  "description": "Dynamique quantique de la protéine Amyloïde-Bêta 42 en environnement cellulaire.",
+  "active_space": "CAS(42e, 44o) via KoDRA Matrix Mapping",
+  "effective_dimensions": 524288,
+  "physical_parameters": {
+    "temperature_K": 310.15,
+    "pH": 7.4,
+    "solvent": "Eau explicite (Quantum-MM)"
+  },
+  "critical_effect": "Quantum Tunnelling des protons dans les liaisons hydrogène inter-chaînes",
+  "source": "Simulation KoDRA PMQC - Aβ42 oligomérisation"
+}

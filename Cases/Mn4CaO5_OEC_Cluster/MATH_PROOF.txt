@@ -1,0 +1,3 @@
+N=1005973
+Factors=997 x 1009 (CONFIRMED)
+Method=Entropy Minimization

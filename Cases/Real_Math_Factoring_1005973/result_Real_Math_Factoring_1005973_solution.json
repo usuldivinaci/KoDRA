@@ -1,0 +1,21 @@
+{
+    "timestamp": 1773287130.7679021,
+    "case_id": "Real_Math_Factoring_1005973",
+    "domain": "BIO_INFORMATICS",
+    "input_source": "shor_config.json",
+    "stats": {
+        "processing_time": 4.627263069152832,
+        "initial_entropy": 0.5935055613517761,
+        "final_entropy": 0.07743892073631287,
+        "energy_reduction_pct": 86.95228389099894,
+        "steps": 20
+    },
+    "tangible_metrics": {
+        "Gibbs Free Energy": "-19.37 kcal/mol",
+        "Ground State Probability": "6.46%",
+        "Residue Count": "0 AA"
+    },
+    "optimization_energy": 1.0002716779708862,
+    "vector_state": "Converged |1>",
+    "solution_output": "DATA_PROCESSED_SUCCESSFULLY_VIA_ZERO_PORTAL"
+}

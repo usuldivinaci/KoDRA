@@ -1,0 +1,20 @@
+{
+  "system_metadata": {
+    "name": "KoDRA",
+    "full_name": "Kiss Of the Dragon",
+    "type": "PMQC",
+    "formula": "Loi d'Unicité KODra",
+    "core_modules": ["unicity_lib", "zero_portal", "universal_adapter"],
+    "entry_point": "KoDRA.py"
+  },
+  "recursive_evolution": {
+    "task": "RECURSIVE_EVOLUTION_SCAN",
+    "input_source": "Genesis state (norm 1.110743)",
+    "target": "Own code source (Python/KODra)",
+    "loop": "Formula applied to itself"
+  },
+  "causalité_circulaire": {
+    "question": "Prédire la version finale sans paradoxe ?",
+    "self_reference": true
+  }
+}

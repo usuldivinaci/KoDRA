@@ -1,0 +1,7 @@
+{
+  "case_type": "QUANTUM_CHEMISTRY_VQE",
+  "molecule_name": "H2O",
+  "basis_set": "STO-3G",
+  "source": "DOI:10.1038/nature24039",
+  "description": "molecule"
+}

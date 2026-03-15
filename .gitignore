@@ -1,0 +1,63 @@
+# KoDRA - Fichiers à ne pas versionner
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+.env/
+
+# Données / artefacts générés par les runs
+*.pt
+heavy_mass.pt
+last_run_metrics.json
+Cases/**/results/
+*.pkl
+*.pickle
+
+# Fichiers sensibles (simulation crypto)
+*.wif
+RECOVERED_PRIVATE_KEY*
+*_private_key*
+
+# IDE / éditeur
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Config local (secrets)
+.env
+.env.local
+*.local
+
+# Logs
+*.log
+logs/

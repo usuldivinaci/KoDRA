@@ -1,0 +1,19 @@
+{
+  "case_type": "DRUG_DESIGN",
+  "case_name": "KODRA_DRUG_DESIGN",
+  "description": "Conception d'un inhibiteur (petite molécule) pour interférer avec le Quantum Tunnelling des protons (cas Alzheimer).",
+  "target": "Rupture de la liaison H inter-chaîne via un agent chélateur simulé par KoDRA",
+  "base_metrics": {
+    "ground_state_population_percent": 7.41,
+    "source_case": "KODRA_CASE_ALZHEIMER"
+  },
+  "constraints": {
+    "pH": 7.4,
+    "temperature_K": 310.15,
+    "stability_requirement": "Doit rester stable à pH 7.4 et 310.15 K"
+  },
+  "mode": "find_inhibitor",
+  "precision": "atomique",
+  "tolerance_default": "1e-12",
+  "source": "KoDRA Drug Design - Inhibiteur anti-tunnel (Aβ42)"
+}

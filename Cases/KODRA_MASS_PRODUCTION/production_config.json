@@ -1,0 +1,18 @@
+{
+  "biocompatibility": {
+    "P450_inhibition_max_percent": 5.0,
+    "BBB_efficiency_min_percent": 92.0,
+    "temperature_K": 310.15,
+    "pH": 7.4
+  },
+  "costs": {
+    "cost_per_dose_max_usd": 0.05,
+    "target_doses_millions": 120,
+    "currency": "USD"
+  },
+  "safety_criteria": {
+    "test_1_toxicity": "P450 inhibition < 5%",
+    "test_2_bbb": "BBP efficiency > 92%",
+    "test_3_synthesis": "Cost < 0.05 USD per dose"
+  }
+}

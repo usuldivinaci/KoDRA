@@ -1,0 +1,15 @@
+{
+    "case_type": "COMBINATORIAL_OPTIMIZATION",
+    "challenge_name": "TSP - 8 Million Cities",
+    "description": "Find the optimal path visiting 8,000,000 nodes exactly once with minimal distance.",
+    "node_count": 8000000,
+    "graph_type": "Euclidean 2D",
+    "complexity_class": "NP-Hard",
+    "initial_seed": 42,
+    "portal_parameters": {
+        "solver_method": "Quantum_Annealing_through_Zero",
+        "parallel_agents": 10000,
+        "convergence_target": "Global_Minima"
+    },
+    "map_file": "cities_8M.json"
+}

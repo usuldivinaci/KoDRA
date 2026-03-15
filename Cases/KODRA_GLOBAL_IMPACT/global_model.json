@@ -1,0 +1,29 @@
+{
+  "economy": {
+    "jobs_created_millions": 120,
+    "cost_alzheimer_remedy_usd": 0.001,
+    "resource_distribution_optimized": true
+  },
+  "energy": {
+    "fusion_stable": true,
+    "Q_factor": 10.0,
+    "energy_gain_percent": 50
+  },
+  "health": {
+    "alzheimer_remedy": {
+      "cost_per_dose_usd": 0.001,
+      "safety_percent": 100
+    },
+    "life_expectancy_increase_years": 12.5
+  },
+  "logistics": {
+    "co2_reduction_percent": 37,
+    "nodes_optimized_millions": 8
+  },
+  "indicators": {
+    "life_expectancy_delta_years": 12.5,
+    "new_jobs_millions": 120
+  },
+  "social_risk_baseline_percent": 8,
+  "target_social_risk_percent": 1
+}

@@ -1,0 +1,12 @@
+{
+  "op_mode": "QUANTUM_STRESS_TEST",
+  "option_values": {
+    "target": "Mn4CaO5_OEC_Cluster",
+    "symmetry_group": "C1_NoSymmetry_FullScan",
+    "wavefunction_depth": 524288,
+    "entanglement_density": "MAX_KODra",
+    "energy_threshold": "1.0e-12_Ha",
+    "reality_context": "ULTRA_BIO_PHOTOSYNTHESIS",
+    "interaction_tensor": "NON_LOCAL_STRONG_CORR"
+  }
+}

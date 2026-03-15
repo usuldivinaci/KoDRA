@@ -1,0 +1,14 @@
+{
+    "case_type": "BIO_INFORMATICS",
+    "challenge_name": "Protein Folding - Prion Beta Sheet",
+    "description": "Determine the lowest energy conformation (Ground State) for a misfolded prion protein sequence.",
+    "sequence_data": "LOADED_FROM_FILE",
+    "pdb_id": "UNKNOWN_X",
+    "energy_model": "Lennard-Jones + Coulomb + Hydrogen Bonding",
+    "portal_parameters": {
+        "temperature_sim": 300.0,
+        "annealing_schedule": "Geometric",
+        "spatial_dimensions": 3
+    },
+    "sequence_file": "sequence_10k_AA.fasta"
+}

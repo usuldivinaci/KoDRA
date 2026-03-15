@@ -1,0 +1,23 @@
+{
+  "case_type": "GLOBAL_IMPACT",
+  "case_name": "KODRA_GLOBAL_IMPACT",
+  "description": "Harmoniser les découvertes précédentes et stabiliser la société.",
+  "inputs": {
+    "sante": {
+      "remede_alzheimer": "Coût 0.001$, Safety 100%"
+    },
+    "energie": {
+      "fusion_stable": "Q-Factor 10.0, Gain +50%"
+    },
+    "logistique": {
+      "co2_reduction_percent": 37,
+      "noeuds_optimises_millions": 8
+    },
+    "indicateurs": {
+      "esperance_vie_ans": 12.5,
+      "metiers_crees_millions": 120
+    }
+  },
+  "target_social_risk_percent": 1,
+  "source": "KoDRA Global Impact - Pocket Meta Computer"
+}

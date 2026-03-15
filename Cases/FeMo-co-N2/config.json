@@ -1,0 +1,12 @@
+{
+  "case_type": "FeMo_co_N2_FULL",
+  "molecule_name": "FeMo-co",
+  "formula": "Fe7MoS9C-Homocitrate",
+  "spin_state": "S=3/2 (High Spin)",
+  "active_space": "CAS(24e, 24o) - Impossible Classically",
+  "target_accuracy": "0.1 kcal/mol (Ultra-Precise)",
+  "simulation_modes": ["structure", "N2_REDUCTION"],
+  "substrate": "N2",
+  "target_product": "2 NH3",
+  "description": "FeMo-co: structure electronique du minimum global + simulation rupture liaison N≡N"
+}

@@ -1,0 +1,29 @@
+{
+  "case_type": "MASS_PRODUCTION",
+  "case_name": "KODRA_MASS_PRODUCTION",
+  "description": "Finaliser l'inhibiteur d'Alzheimer identifié - synthèse, sécurité, production.",
+  "target": "Synthèse chimique de l'agent chélateur (Affinité -47.44 kcal/mol)",
+  "affinity_kcal_mol": -47.44,
+  "tests": {
+    "test_1_toxicity": {
+      "name": "Toxicité (Cytochromes P450 hépatiques)",
+      "target": "Inhibition < 5%",
+      "metric": "P450_inhibition_percent"
+    },
+    "test_2_bbb": {
+      "name": "Barrière Hémato-Encéphalique (BBP)",
+      "target": "Efficacité > 92%",
+      "metric": "BBB_efficiency_percent"
+    },
+    "test_3_synthesis": {
+      "name": "Synthèse (coût)",
+      "target": "Coût < 0.05$ par dose",
+      "metric": "cost_per_dose_usd"
+    }
+  },
+  "production": {
+    "target_doses_millions": 120,
+    "source_jobs_metric": "120 millions (nouveaux métiers)"
+  },
+  "source": "KoDRA Mass Production - Inhibiteur Alzheimer"
+}

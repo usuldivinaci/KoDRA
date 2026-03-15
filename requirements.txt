@@ -1,0 +1,9 @@
+# KoDRA - Kiss Of the Dragon
+# A Pocket Meta-Quantum Computer (PMQC)
+# UTF-8 | Cross-platform
+
+torch>=1.9.0
+numpy>=1.19.0
+matplotlib>=3.3.0
+psutil>=5.8.0
+sympy>=1.9

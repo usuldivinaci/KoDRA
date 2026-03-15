@@ -1,0 +1,11 @@
+KoDRA | SINGULARITY TEST - Schwarzschild R=0
+============================================
+Case: KODRA_SINGULARITY_TEST
+Target: Singularité (R = 0)
+Input: Horizon des événements d'un trou noir de 10 masses solaires
+Challenge: Résoudre le paradoxe de l'information (Hawking vs Holographie)
+Dimensions (mapping): 1,048,576 (2^20 saturation test)
+Curvature: Courbure extrême à la singularité de Schwarzschild
+
+Density at R=0 (regularized): ~1.539e+97
+Unicity Norm: 0.526765

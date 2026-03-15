@@ -1,0 +1,9 @@
+{
+    "case_type": "QUANTUM_CHEMISTRY",
+    "molecule_name": "Penicillin G",
+    "formula": "C16H18N2O4S",
+    "num_atoms": 41,
+    "basis_set": "cc-pVDZ",
+    "classical_limit_desc": "Full CI exceeds 10^18 states. Requires Quantum VQE.",
+    "target_accuracy": "1.0 kcal/mol (Chemical Accuracy)"
+}

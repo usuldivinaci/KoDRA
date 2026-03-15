@@ -1,0 +1,22 @@
+{
+  "case_type": "SINGULARITY_TEST",
+  "case_name": "KODRA_SINGULARITY_TEST",
+  "description": "Appliquer la formule maîtresse au calcul de la densité au centre d'un trou noir de Schwarzschild.",
+  "objective": "Physicien de l'Information Trans-Dimensionnelle — densité à la singularité (R = 0).",
+  "target": {
+    "label": "Singularité (R = 0)",
+    "radius": 0
+  },
+  "input": {
+    "label": "Horizon des événements d'un trou noir de 10 masses solaires",
+    "mass_solar": 10,
+    "schwarzschild_radius_km": 29.5
+  },
+  "challenge": "Résoudre le paradoxe de l'information (Hawking vs Holographie)",
+  "parameters": {
+    "dimensions": 1048576,
+    "dimensions_note": "2^20 — test saturation de la formule",
+    "formula": "Formule maîtresse KODra sur point zéro"
+  },
+  "source": "KoDRA Singularity Test - Information Trans-Dimensionnelle"
+}

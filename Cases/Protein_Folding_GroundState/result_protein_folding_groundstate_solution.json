@@ -1,0 +1,15 @@
+{
+    "timestamp": 1773282406.4322689,
+    "case_id": "Protein_Folding_GroundState",
+    "input_source": "input_protein.json",
+    "stats": {
+        "processing_time": 1.2992885112762451,
+        "initial_entropy": 0.5521912574768066,
+        "final_entropy": 0.07343258708715439,
+        "energy_reduction_pct": 86.70160273404207,
+        "steps": 20
+    },
+    "optimization_energy": 0.993683934211731,
+    "vector_state": "Converged |1>",
+    "solution_output": "DATA_PROCESSED_SUCCESSFULLY_VIA_ZERO_PORTAL"
+}

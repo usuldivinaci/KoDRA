@@ -1,0 +1,9 @@
+{
+  "message_type": "Manuel Technologique",
+  "source_distance_ly": 18715.615965969322,
+  "kodra_sync_rate_percent": 61.88,
+  "unicity_norm_decoded": 0.526765,
+  "frequency_ghz": 1.42,
+  "algorithm": "Quantum Phase Estimation (QPE) - extraction valeurs propres du message",
+  "decode_preview": "Phases quantiques → Manuel Technologique"
+}

@@ -1,0 +1,19 @@
+{
+  "case_type": "SELF_AWARENESS",
+  "case_name": "KODRA_SELF_AWARENESS",
+  "description": "Tester l'auto-référence de la formule maîtresse dans l'Univers Rebooté.",
+  "objective": "Boucle récursive : la formule s'applique à son propre code (auto-référence).",
+  "task": "RECURSIVE_EVOLUTION_SCAN",
+  "input": {
+    "label": "État de Genesis",
+    "genesis_norm": 1.110743
+  },
+  "model": "Appliquer la formule à son propre code source Python/KODra",
+  "challenge": "Résoudre la Causalité Circulaire : le système peut-il prédire sa propre version finale sans créer de paradoxe ?",
+  "parameters": {
+    "recursive_loop": true,
+    "circular_causality": true,
+    "self_reference": true
+  },
+  "source": "KoDRA Self-Awareness - Auto-référence formule maîtresse"
+}

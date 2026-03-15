@@ -1,0 +1,22 @@
+{
+  "case_type": "GENESIS_REBOOT",
+  "case_name": "KODRA_GENESIS_REBOOT",
+  "description": "Simuler une nouvelle réalité basée sur la formule maîtresse (Genesis Reboot).",
+  "objective": "Ingénieur des Lois Fondamentales — tissu de réalité (REALITY_FABRIC_DESIGN).",
+  "task": "REALITY_FABRIC_DESIGN",
+  "input": {
+    "label": "État d'Unicité Totale",
+    "unicity_norm": 0.999942
+  },
+  "modifications": {
+    "information_transfer": "Transfert d'information instantané partout",
+    "gravity": "Force attractive ET répulsive (selon la densité d'information)"
+  },
+  "challenge": "La Norme KODra reste-t-elle stable dans un Univers sans causalité temporelle ?",
+  "parameters": {
+    "first_tick": true,
+    "temporal_causality": false,
+    "big_bang_2": true
+  },
+  "source": "KoDRA Genesis Reboot - Nouvelles lois fondamentales"
+}

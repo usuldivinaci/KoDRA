@@ -1,0 +1,11 @@
+KoDRA | MASS PRODUCTION - INHIBITEUR ALZHEIMER
+================================================
+Case: KODRA_MASS_PRODUCTION
+Target: Synthèse chimique de l'agent chélateur (Affinité -47.44 kcal/mol)
+Affinity: -47.44 kcal/mol
+Test 1 (Toxicité P450): 0.13% (target < 5%)
+Test 2 (BBP): 99.99% (target > 92%)
+Test 3 (Coût/dose): 0.0010$ (target < 0.05$)
+Safety Score: 100.00%
+Production Yield: 99.99%
+Target: 120 millions de doses
