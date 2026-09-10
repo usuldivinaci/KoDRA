@@ -9,7 +9,16 @@ import torch.nn as nn
 #
 # Brief: For any x in multiplicity M, x traverses the Portal 𝟎
 #        and emerges as U(x) — its Unicity (final emergent state).
-#        U = Unicity (not the number 1). 𝟎 = Portal operator.
+#
+# U = Unicity — the emergent, final and unified state (the 'unicity in the One').
+# FR: U = Unicité — l'état émergent, final et unifié (l'« unicité dans le 1 »).
+# Regardless of the multiple existential states of different x ∈ M, when they pass
+# through the Portal 𝟎 (the state-transition operator), those x converge toward
+# one unified state U(x). U is not the scalar 1; it denotes that unique,
+# emergent, unifying state.
+#
+# 𝟎 = Portal operator (not the scalar 0). It is the transition operator between
+#     multiplicity and unicity — implemented as the "void_matrix" + transition MLP.
 # ==========================================
 
 KERNEL_DIM = 64  # Fixed latent dimension for U(x)
