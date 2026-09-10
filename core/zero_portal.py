@@ -3,6 +3,16 @@
 Zero-Portal: At the service of KODra.
 The Portal executes the Law — it does not replace it.
 ∀x ∈ M,  x → 𝟎 → U(x)   — KODra is the sole master.
+
+U = Unicity — the emergent, final and unified state (the 'unicity in the One').
+FR: U = Unicité — l'état émergent, final et unifié (l'« unicité dans le 1 »).
+Regardless of the multiple existential states of different x ∈ M, when they pass
+through the Portal 𝟎 (the state-transition operator), those x converge toward
+one unified state U(x). U is not the scalar 1; it denotes that unique,
+emergent, unifying state.
+
+The Portal uses UnicityKernel (KODra law) as the sole transformation.
+Finds the fixed point: state such that state ≈ U(state).
 """
 import torch
 import time
@@ -16,6 +26,13 @@ class ZeroPortal:
     Engine of Transition — at the service of KODra.
     Uses UnicityKernel (KODra law) as the sole transformation.
     Finds the fixed point: state such that state ≈ U(state).
+
+    U = Unicity — the emergent, final and unified state (the 'unicity in the One').
+    FR: U = Unicité — l'état émergent, final et unifié (l'« unicité dans le 1 »).
+    Independently of the multiple existential states of various x ∈ M, by passing
+    through the Portal 𝟎 (the transition operator), those x converge toward one
+    unified state U(x). U is not the scalar 1; it denotes that unique, emergent,
+    unifying state.
     """
     def __init__(self, unicity_kernel=None, dimension=64):
         self.dimension = dimension
