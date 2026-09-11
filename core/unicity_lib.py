@@ -18,7 +18,7 @@ import torch.nn as nn
 # emergent, unifying state.
 #
 # 𝟎 = Portal operator (not the scalar 0). It is the transition operator between
-#     multiplicity and unicity — implemented as the "void_matrix" + transition MLP.
+#     multiplicity and unicity — implemented as the "portal_matrix" + transition MLP.
 # ==========================================
 
 KERNEL_DIM = 64  # Fixed latent dimension for U(x)
@@ -46,8 +46,9 @@ class UnicityKernel(nn.Module):
     def __init__(self, dim=64):
         super().__init__()
         self.dim = dim
-        self.void_matrix = nn.Parameter(torch.randn(dim, dim))
-        nn.init.orthogonal_(self.void_matrix)
+        # portal_matrix represents the Portal 𝟎 in the computational model
+        self.portal_matrix = nn.Parameter(torch.randn(dim, dim))
+        nn.init.orthogonal_(self.portal_matrix)
 
         self.transition = nn.Sequential(
             nn.Linear(dim, dim * 4),
@@ -59,7 +60,7 @@ class UnicityKernel(nn.Module):
         # Project to kernel dim if needed (handles 64 → 500k+)
         x_proj = _project_to_kernel_dim(x, self.dim)
         # x ⭐ 0 : x traverses Portal → U(x)
-        interaction = torch.matmul(x_proj, self.void_matrix)
+        interaction = torch.matmul(x_proj, self.portal_matrix)
         u = self.transition(interaction)
         return torch.tanh(u)
 
